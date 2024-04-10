@@ -48,3 +48,7 @@ The project is structured into several components:
 
 ## Conclusion:
 The project facilitates the identification of explainable variables that can enhance the efficiency and effectiveness of cuts in High Energy Physics analyses. By employing a combination of genetic algorithms and statistical measures, it offers a systematic approach to optimizing variable selection for improved discrimination between signal and background processes.
+
+## Made with love by:
+- [Rishabh Khanna](https://github.com/RishKhanna)
+- [Kalp Shah](https://github.com/Blizzard57)

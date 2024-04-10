@@ -1,4 +1,4 @@
-# Project Name: Explanatory Variables for High Energy Physics (HEP) Cuts
+# Explanatory Variables for High Energy Physics (HEP) Cuts
 
 ## Introduction:
 This project aims to optimize the selection of variables for better cuts in High Energy Physics (HEP) analysis, particularly in the context of particle physics experiments. By employing genetic algorithms and statistical measures, the project identifies a set of explainable variables that can enhance the discrimination between signal and background processes.
